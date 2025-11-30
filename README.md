@@ -1,5 +1,5 @@
 # CMZ_dustSED
-This repository contains the continuum maps and SED-fitting products used in our study of the Central Molecular Zone (https://arxiv.org/abs/2511.20300). It includes JCMT 450/850 micron data, CSO 350 micron data, and derived NH2, T_dust, and beta maps supporting the analyses in the study.
+This repository contains the continuum maps and SED-fitting products used in our study of the Central Molecular Zone (https://arxiv.org/abs/2511.20300). It includes all datasets used to produce Figures 1–3 of the paper.
 
 The files correspond to the figures in the manuscript as follows. 
 
